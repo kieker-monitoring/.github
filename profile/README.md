@@ -5,7 +5,7 @@ This organization manages all repositories that belong to the Kieker community. 
 - The **MooBench** project, that continuously benchmarks the overhead of Kieker monitoring
 - The **TeeStore** project, that provides a pipe & filter architecture for Kieker
 
-## Architecture
+## Component Dependencies
 
 ```mermaid
 
