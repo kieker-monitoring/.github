@@ -21,9 +21,9 @@ flowchart TB
     analysis-->examples
     end
     instrumentation-languages-->common
-    monitoring-->|Benchmarked by|moobench
     teetime-->analysis
     teetime-->tools
+    monitoring-->moobench
 ```
 
 
