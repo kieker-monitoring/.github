@@ -11,10 +11,13 @@ This organization manages all repositories that belong to the Kieker community. 
 
 flowchart TB
     subgraph Kieker
+    common-->monitoring
+    common-->analysis
     monitoring-->examples
     analysis-->tools
     analysis-->examples
     end
+    instrumentation-languages-->common
     teetime-->analysis
     teetime-->tools
     monitoring-->moobench
