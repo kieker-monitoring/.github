@@ -6,8 +6,7 @@ This organization manages all repositories that belong to the Kieker community. 
   - the **tools** and **examples** that are using them
 - The [instrumentation-languages](https://github.com/kieker-monitoring/instrumentation-languages) repository, that make it possible to generate the monitoring records that are use in **kieker:common**
 - The [MooBench](https://github.com/kieker-monitoring/moobench) repository, that continuously benchmarks the overhead of Kieker monitoring
-
-The [TeeTime](https://github.com/teetime-framework/TeeTime) repository, that provides a pipe & filter architecture for Kieker, is managed in its own [organization](https://github.com/teetime-framework).
+- The [TeeTime](https://github.com/kieker-monitoring/teetime) repository, that provides a pipe & filter architecture for Kieker
 
 ## Component Dependencies
 
